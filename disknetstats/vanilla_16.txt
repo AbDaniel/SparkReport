@@ -1,0 +1,16 @@
+{  'vm-36-1': {  'disk': {  'read_bytes': 60055552, 'write_bytes': 1785856},
+                 'net': {  'receive_bytes': 21456514,
+                           'transmit_bytes': 2880063}},
+   'vm-36-2': {  'disk': {  'read_bytes': 49455104, 'write_bytes': 1462272},
+                 'net': {  'receive_bytes': 214983690,
+                           'transmit_bytes': 182086093}},
+   'vm-36-3': {  'disk': {  'read_bytes': 160026624, 'write_bytes': 1658880},
+                 'net': {  'receive_bytes': 184626992,
+                           'transmit_bytes': 272744484}},
+   'vm-36-4': {  'disk': {  'read_bytes': 48996352, 'write_bytes': 1519616},
+                 'net': {  'receive_bytes': 215106708,
+                           'transmit_bytes': 181307312}},
+   'vm-36-5': {  'disk': {  'read_bytes': 48910336, 'write_bytes': 1470464},
+                 'net': {  'receive_bytes': 215091435,
+                           'transmit_bytes': 181712946}}}
+time: 43s
