@@ -1,0 +1,18 @@
+{  'vm-36-1': {  'disk': {  'read_bytes': 60395520, 'write_bytes': 2629632},
+                 'net': {  'receive_bytes': 20589504,
+                           'transmit_bytes': 1950833}},
+   'vm-36-2': {  'disk': {  'read_bytes': 47648768, 'write_bytes': 161513472},
+                 'net': {  'receive_bytes': 119082349,
+                           'transmit_bytes': 196328790}},
+   'vm-36-3': {  'disk': {  'read_bytes': 159522816, 'write_bytes': 140816384},
+                 'net': {  'receive_bytes': 79837421,
+                           'transmit_bytes': 279251267}},
+   'vm-36-4': {  'disk': {  'read_bytes': 48144384, 'write_bytes': 112984064},
+                 'net': {  'receive_bytes': 325645710,
+                           'transmit_bytes': 178892092}},
+   'vm-36-5': {  'disk': {  'read_bytes': 48189440, 'write_bytes': 134512640},
+                 'net': {  'receive_bytes': 334380228,
+                           'transmit_bytes': 190959722}}}
+
+time : 1.2min
+appid: 39
